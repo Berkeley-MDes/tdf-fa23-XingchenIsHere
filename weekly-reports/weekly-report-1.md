@@ -9,5 +9,5 @@ Regular Text
 [Here](https://www.apple.com) is a link.
 
 ## Summary
-### SUmmaty
-** Bold **
+### SUmmary
+**Bold**
