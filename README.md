@@ -1,6 +1,5 @@
 # Welcome to my GitHub repository!
 
----
 ## Weekly Report 1 - Week of 08/28/2023 ##
 [Weekly Report 1](weekly-reports/weekly-report-1.md)
 
