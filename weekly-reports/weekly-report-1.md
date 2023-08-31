@@ -8,20 +8,16 @@ I tweaked the parameters of the orginal design to fit my phone after measuring t
 
 ## Production
 After converting what I had in Rhino to an Illustrator file, I went to the studio and laser-cutted it. I learnt two techniques that can guarantee the machine cutting through your material: adjusting the parameters through pre-testing, and simply cutting the material multiple times.
-![](Group1.png)
-![](Group1.png)
+
+![](p1.jpeg)
+
+![](p2.jpeg)
 
 ## Result
 Using the second method mentioned above, I got my stand! It's not perfect, but good enough for me for the first try.
-![](Group1.png)
+![](p3.jpeg)
 
 ## Reflection
 I believe that documenting contextual observations including user preferences, ergonomics, market trends, and aesthetic considerations can help refine the design process and ensure the resulting cell phone stands meet the intended requirements. And apart from the visual appeal and functionality of the cell phone stands, other evaluations can be conducted to provide valuable feedback. This feedback may involve user testing, usability evaluations, and durability assessments, namely putting the product into use in realistic, specific scenarios where the user can interact with and test it to see if it meets their needs and expectations.
 
 Moreover, in terms of where AI can fit in this process, it can be utilized for generating novel design suggestions and initial design concepts based on user preferences, or analyzing large datasets of cell phone stand designs to identify patterns and optimize parameters. This approach can enhance the efficiency and effectiveness of the design process.
-
-[Here](https://www.apple.com) is a link.
-
-## Summary
-### SUmmary
-**Bold**
