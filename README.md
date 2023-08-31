@@ -2,8 +2,7 @@
 
 ---
 ## Weekly Report 1 - Week of 08/28/2023 ##
-[Example Report 1](weekly-reports/weekly-report-1.md)
---- 
+[Weekly Report 1](weekly-reports/weekly-report-1.md)
 
 PS: 
 ## Quick Links, compiled here for your convenience: ##
