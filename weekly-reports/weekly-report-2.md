@@ -8,11 +8,11 @@ Throughout this week, I made some progress in advancing my proficiency in Rhino 
 2. To tailor the phone stand to my specific needs, I gathered precise data about my phone by measuring the width, height, and thickness of the phone within its phone case. This data was then applied to fine-tune the parameters within the provided Grasshopper file. The result was a customized phone stand that fits my device perfectly, which I believe will offer a seamless user experience.
 ![](w2-1.jpeg)
 ![](w2-2.jpeg)
-![](w2-3.jpeg)
+![](w2-3.jeg)
 
 3. In an attempt to make my design more sustainable and eco-friendly, I made a practical modification. I introduced a cylinder void within the model, strategically placed to reduce the material needed during the 3D printing process.
-![](w2-4.jpeg)
-![](w2-5.jpeg)
+![](w2-4.jpg)
+![](w2-5.jpg)
 
 4. In parallel with my digital work, I also spent time enhancing my sketching skills as a beginner by repeating the basic exercises.
 ![](w2-6.jpeg)
