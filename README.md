@@ -6,7 +6,7 @@
 ## Weekly Report 2 - Week of 09/04/2023 ##
 [Weekly Report 2](weekly-reports/weekly-report-2.md)
 
-## Weekly Report 2 - Week of 09/11/2023 ##
+## Weekly Report 3 - Week of 09/11/2023 ##
 [Weekly Report 3](weekly-reports/weekly-report-3.md)
 
 ## Quick Links, compiled here for your convenience: ##
