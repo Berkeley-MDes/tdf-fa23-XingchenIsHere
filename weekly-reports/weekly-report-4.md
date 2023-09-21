@@ -21,4 +21,4 @@ The design of my cell phone stand holds potential for interesting impacts on hum
 
 The user reflecting the relationship between them and the object the use (their phone) through another object (the cell phone stand) as the medium
 Moreover, the stand's customizable features, such as adjusting the phone size and viewing angle, enhance user convenience and comfort. By tailoring the stand to their preferences, users can create a personalized viewing experience that aligns with their unique needs and habits. This level of customization can contribute to increased user satisfaction and overall well-being.
-![](w43.jpeg)
+![](w43.png)
