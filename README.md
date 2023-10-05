@@ -15,6 +15,9 @@
 ## Weekly Report 5 - Week of 09/25/2023 ##
 [Weekly Report 5](weekly-reports/weekly-report-5.md)
 
+## Weekly Report 6 - Week of 10/02/2023 ##
+[Weekly Report 6](weekly-reports/weekly-report-6.md)
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
