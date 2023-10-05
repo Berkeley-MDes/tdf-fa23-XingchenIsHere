@@ -5,3 +5,5 @@ This week, we completed the design brief and specifications. Our project is call
 
 We also did a little test of the vibrator motor and it worked like this:
 ![](w61.mp4)
+https://github.com/Berkeley-MDes/tdf-fa23-XingchenIsHere/assets/143141331/6593ac15-7e87-4549-9eed-dd6043258ec5
+
