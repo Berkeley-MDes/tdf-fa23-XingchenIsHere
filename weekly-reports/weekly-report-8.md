@@ -6,11 +6,14 @@ After figuring out how Particle.publish() and Particle.subscribe() work and how 
 My process goes like this:
 1. Having discussed with Adorey, who meditates a lot, and tried the meditation on Apple Watch myself, we decided that a reasonable breathing pattern should consist of looping cycles, where the user will inhale for 4 seconds, hold their breath for 1 second and exhale for 4 seconds, and that after each cycle there should be a half-second pulse.
 2. For the vibrator, I introduced the adafruit-drv2605-photon library and picked 5 effects from all the effects the motor driver that can form a period of vibration whose frequency and intensity can change continuously after a lot of testings. To implement the inhale phase, I created a nested for loop to have the driver go through 5 effects in total, from the weakest buzzing to the strongest, and last 800ms during each effect, so that the inhale process will last 4s. After that, there's a 1s delay where the user need to hold their breath. And a similar nested for loop controls the exhale process, the only difference being the driver will go from the strongest effect to the weakest. Below is the screenshots of my code.
-![](w71.jpeg)
-3. For the servo, I also have to do a precise control. The servo will need to rotate 90 degrees clockwise in exactly 4 seconds to pull the petals and make the flowers close, mimicking the action of breathing in. After 1s for holding breath, it will again rotate 90 degrees counterclockwise in exactly 4 seconds to release the petals and make the flowers bloom, mimicking the action of breathing out. What I did is calculating the time each rotation will take in order to reach 90 degrees in 4 seconds and using that to control the movement of the servo. With delays added to represent holding breath and short pulses, the code looks something like this.
-![](w71.jpeg)
+![](w81.jpg)
+![](w82.jpg)
+![](w83.jpg)
+4. For the servo, I also have to do a precise control. The servo will need to rotate 90 degrees clockwise in exactly 4 seconds to pull the petals and make the flowers close, mimicking the action of breathing in. After 1s for holding breath, it will again rotate 90 degrees counterclockwise in exactly 4 seconds to release the petals and make the flowers bloom, mimicking the action of breathing out. What I did is calculating the time each rotation will take in order to reach 90 degrees in 4 seconds and using that to control the movement of the servo. With delays added to represent holding breath and short pulses, the code looks something like this.
+![](w84.jpg)
 
-The final result is shown in the recordings. Both parts work in sync and can be activated by the button in the webpage.
+The final result is shown in the recording. Both parts work in sync and can be activated by the button in the webpage.
+https://drive.google.com/file/d/1mwDmQtGnT5yLZ3wsD7jdNsQIWjoKSbP0/view?usp=sharing
 
 ## Reflections
 In terms of the state of our work, we have basically achieved our goal of creating a meditative device that guides users through a specific breathing pattern. We've successfully synchronized the vibrator and servo's actions with the desired breathing pattern, with vibrations mimicking the inhale and exhale phases, and the servo controlling the flower petals' movement to simulate the user's breath.
