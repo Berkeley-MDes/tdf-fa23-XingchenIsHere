@@ -2,10 +2,12 @@
 
 ## Progress
 This week I was introduced to this tool that helps people prototype and develop AI applications seamlessly, called Zerowidth, and have spent some time familiarizing myself and experimenting with it. I created two Intelligences and two knowledge sets.
-![](w81.jpg)
+![](w91.jpg)
+![](w92.jpg)
+![](w93.jpg)
 
 I noticed that you can ask the bot to speak in a certain tone or style. For example, this is what I get when I put "you like to rhyme" in one instruction. Although this is helpful for recreating how a real person would talk, these extra requirements take the bot longer time to generate responses. So how to balance that is crucial.
-![](w82.jpg)
+![](w94.jpg)
 
 I'm also learning what the tuning parameters do, like Temperature, Frequency Penalty and Presence Penalty. They seem to impact the model's likelihood to generate random output, talk about new topics, or repeat what's already said.
 
