@@ -4,7 +4,7 @@
 To integrate the chatbot into a separate personal website, API is crucial in this project. And for someone who has no prior experience with that, it has been quite a learning curve.
 
 The challenges became more and more complicated as I delved deeper into connecting my webpage to the app. The first is, of course, comprehending what API and related concepts mean and how I should weave it into my code. Then after I built a simple webpage following ChatGPT’s instructions, the requests and responses were blocked by CORS policy, which required me to again understand what that meant and figure out new approaches to code. Finally, after I solved the previous problem, the console didn’t display any error messages when I ran my webpage, but I couldn’t receive any responses from my app. At this point the challenge has evolved into a debugging problem in the domain of web development, which is somewhat out of our project scope.
-![](w-10.png)
+![](w-11-1.jpg)
 
 To solve the obstacles, I consulted ChatGPT and my peers each time a new challenge emerged, and embedded what I learnt into my code.
 
