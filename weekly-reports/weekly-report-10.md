@@ -27,4 +27,5 @@ Fine-tuning the chatbot has been a valuable learning experience that underscored
 
 ## Speculations
 Building personal, human-like chat bots can make human-machine interactions more intuitive and personalized. And it is especially useful in filling the gaps between the widespread adoption of self-driving cars and people’s lack of trust in autonomous driving technology in the future. An intelligent virtual assistant that possesses rich expressions, body languages and even perceived feelings can make the car come alive and bring users emotionally closer to the vehicle itself, so that they can better trust and rely on the system they are using.
+
 ![](w-10-8.png)
