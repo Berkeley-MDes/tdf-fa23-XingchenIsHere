@@ -33,6 +33,9 @@
 ## Weekly Report 11 - Week of 11/06/2023 ##
 [Weekly Report 11](weekly-reports/weekly-report-11.md)
 
+## Weekly Report 12 - Week of 11/13/2023 ##
+[Weekly Report 12](weekly-reports/weekly-report-12.md)
+
 ## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
