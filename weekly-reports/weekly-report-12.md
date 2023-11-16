@@ -23,21 +23,23 @@ Challenge Level
 Platypus
 
 Timeline
-Week 1 (11/13 - 11/19)T
-􏰀 Find out and organize all the information the target user group needs the mos^ 􏰀 Create corresponding knowledge sets and build a functional intelligenc1
+Week 1 (11/13 - 11/19)
+􏰀 Find out and organize all the information the target user group needs the most
+  Create corresponding knowledge sets and build a functional intelligence
 􏰀 Implement the initial set of quiz functionalities
 
-Week 2 (11/20 - 11/26)T
-􏰀 Design the UI for the final website, including the 3D asseti
+Week 2 (11/20 - 11/26)
+􏰀 Design the UI for the final website, including the 3D assets
 􏰀 Debug the website from Project 3 and build a working website
 
-Week 3 (11/27 - 12/4)7
-􏰀 Conduct user testing to detect and fix unnoticed problemi
+Week 3 (11/27 - 12/4)
+􏰀 Conduct user testing to detect and fix unnoticed problems
 􏰀 Solicit feedback during the demonstration for further improvement and iterations
 
 ## Reflections & Speculations
 On Monday's class, I noticed that Cynthia's proposal is similar to mine in that we both want to combine AI and web development to build a sophisticated product that's tailored to a specifc need. But her idea is developing an app that recommends Chinese herbal cuisine to users accoridng to different needs, which is more interesting. So I decided to team up with her and work one her project.
 
 And this is what we found. We thought that we could design our app in a similar way.
+![](w-12.jpg)
 
 
