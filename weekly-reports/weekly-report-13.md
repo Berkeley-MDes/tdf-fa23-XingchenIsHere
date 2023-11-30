@@ -5,4 +5,5 @@ I've been designing the user interface for our project. Inspired by the rectangu
 
 I've been also translating what I designed in Figma into a working webpage using html, css and javascript.
 
-![](w-12.jpg)
+![](w13-1.jpg)
+![](w13-2.png)
